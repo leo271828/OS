@@ -5,7 +5,7 @@
 ## Compile & Run
 ```
 $ gcc buffer.c -o buffer.exe -fopenmp 
-$ ./readers.exe
+$ ./buffer.exe
 ```
 
 ## Introduction
